@@ -1,0 +1,10 @@
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\bin\Debug\TVP2project.exe.config
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\bin\Debug\TVP2project.exe
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\bin\Debug\TVP2project.pdb
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\obj\Debug\TVP2project.csprojAssemblyReference.cache
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\obj\Debug\TVP2project.Form1.resources
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\obj\Debug\TVP2project.Properties.Resources.resources
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\obj\Debug\TVP2project.csproj.GenerateResource.cache
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\obj\Debug\TVP2project.csproj.CoreCompileInputs.cache
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\obj\Debug\TVP2project.exe
+C:\Users\Uzelac\source\repos\TVP2project\TVP2project\obj\Debug\TVP2project.pdb
